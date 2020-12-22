@@ -1,4 +1,4 @@
-## Opa! Seja Bem vindo, me chamo Bryan 👋
+## Opa! Seja Bem vindo(a), me chamo Bryan 👋
 ***
 
 Estou migrando para a área de desenvolvimento, no momento focado em **Front-End**, mas pretendo me tornar Full-Stack.  
