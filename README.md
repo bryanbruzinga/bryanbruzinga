@@ -1,7 +1,7 @@
 <img src=".github/Coding-Html-icon.png" width="400px" align="right" alt="Computador">
 
-Howdy! Welcome to my profile, i'm Bryan Bruzinga. 🖖
-***
+<h2 align="left">Howdy! Welcome, i'm Bryan.🖖</h2>
+<hr>
 
 <p align="left"> I'm changing career to web development, more specifically Front-End Development, but i aim to become a Full-Stack dev later.  
 Graduating in Software Engineering😄.</p>
