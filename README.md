@@ -6,7 +6,7 @@
 Graduating in Software Engineering😄.</p>
 
 <p align="left">🧑‍💻Techs i use in my projects: <strong>HTML, CSS, Javascript, a little bit of Bootstrap, Git and of course, GitHub.</strong></p>
-<p align="left">🤓 Currently studying: <strong>React.</strong></p>
+<p align="left">🤓 Currently studying: <strong>VueJs and React.</strong></p>
 <p align="left">I use VS Code as my IDE. 💻</p>
 
 <a href="https://www.linkedin.com/in/bryan-da-silva-bruzinga-b6830960/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
