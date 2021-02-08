@@ -5,7 +5,7 @@
 <p align="left"> I'm changing career to web development, more specifically Front-End Development, but i aim to become a Full-Stack dev later.  
 Graduating in Software Engineering😄.</p>
 
-<p align="left">🧑‍💻Techs i use in my projects: <strong>HTML, CSS, Javascript, a little bit of Bootstrap, Git and of course, GitHub.</strong></p>
+<p align="left">🧑‍💻Techs i use in my projects: <strong>HTML, CSS, Javascript, a little bit of Bootstrap and Git.</strong></p>
 <p align="left">🤓 Currently studying: <strong>VueJs.</strong></p>
 <p align="left">I use VS Code as my IDE. 💻</p>
 
