@@ -40,6 +40,12 @@ Graduating in Software Engineering😄.</p>
       width="40"
       height="40"
     />
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
+      alt="VsCode"
+      width="40"
+      height="40"
+    />
 <p align="left">🤓 Currently studying:</p>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
@@ -47,12 +53,6 @@ Graduating in Software Engineering😄.</p>
       width="40"
       height="40"
     />
-<p align="left">I use <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
-      alt="VsCode"
-      width="40"
-      height="40"
-    /> as my IDE. 💻</p>
 
 <p>Y'all can check me out in: </p><a href="https://www.linkedin.com/in/bryan-da-silva-bruzinga-b6830960/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
