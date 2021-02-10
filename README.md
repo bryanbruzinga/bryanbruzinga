@@ -1,6 +1,6 @@
 <h2 align="left">Howdy! Welcome, i'm Bryan.🖖</h2>
 
-<img align=right src="./.github/Coding-Html-icon.png" alt="Coding" width="350" height="350"/>
+<img align="right" src="./.github/Coding-Html-icon.png" alt="Coding" width="350" height="350"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
 
@@ -56,4 +56,4 @@ Graduating in Software Engineering😄.</p>
 
 <p>Y'all can check me out in: </p><a href="https://www.linkedin.com/in/bryan-da-silva-bruzinga-b6830960/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<i> It's not about reaching the goal, it's about enjoying the path.</i>
+<p><i align="center"> It's not about reaching the goal, it's about enjoying the path.</i></p>
