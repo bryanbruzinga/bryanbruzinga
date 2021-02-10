@@ -5,7 +5,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
 
 
-<p align="left"> I'm changing career to web development, more specifically Front-End Development, but i aim to become a Full-Stack dev later.  
+<p align="left"> I'm changing career to web development, more specifically Front-End Development, but i'm aiming to become a Full-Stack dev later on.  
 Graduating in Software Engineering😄.</p>
 
 <h3><p align="left">🧑‍💻Techs i use in my projects:</p></h3>
