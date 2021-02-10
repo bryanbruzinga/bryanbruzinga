@@ -8,7 +8,7 @@
 <p align="left"> I'm changing career to web development, more specifically Front-End Development, but i aim to become a Full-Stack dev later.  
 Graduating in Software Engineering😄.</p>
 
-<p align="left">🧑‍💻<h3>Techs i use in my projects:</h3></p>
+<h3><p align="left">🧑‍💻Techs i use in my projects:</p></h3>
 <p align="left">
     <img
       src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
@@ -46,7 +46,7 @@ Graduating in Software Engineering😄.</p>
       width="40"
       height="40"
     />
-<p align="left">🤓 <h3>Currently studying:</h3></p>
+<h3><p align="left">🤓Currently studying:</p></h3>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
       alt="Vuejs"
