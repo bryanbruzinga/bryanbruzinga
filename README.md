@@ -1,6 +1,8 @@
-<img src=".github/Coding-Html-icon.png" width="400px" align="right" alt="Computador">
-
 <h2 align="left">Howdy! Welcome, i'm Bryan.🖖</h2>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanbruzinga&theme=dark&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
+
 
 <p align="left"> I'm changing career to web development, more specifically Front-End Development, but i aim to become a Full-Stack dev later.  
 Graduating in Software Engineering😄.</p>
