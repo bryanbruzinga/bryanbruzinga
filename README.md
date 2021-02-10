@@ -1,6 +1,5 @@
 <h2 align="left">Howdy! Welcome, i'm Bryan.🖖</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanbruzinga&theme=dark&hide_border=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
 
 
