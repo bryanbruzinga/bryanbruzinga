@@ -47,6 +47,7 @@ Graduating in Software Engineering😄.</p>
       height="40"
     />
 <h3><p align="left">🤓Currently studying:</p></h3>
+<p>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
       alt="Vuejs"
@@ -59,6 +60,7 @@ Graduating in Software Engineering😄.</p>
       width="40"
       height="40"
     />
+    </p>
 
 <p>Y'all can check me out in: </p><a href="https://www.linkedin.com/in/bryan-da-silva-bruzinga-b6830960/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
