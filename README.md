@@ -62,7 +62,7 @@ Graduating in Software Engineering😄.</p>
     />
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"
-      alt="Vuejs"
+      alt="Sass"
       width="40"
       height="40"
     />    
