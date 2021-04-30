@@ -52,11 +52,23 @@ Graduating in Software Engineering😄.</p>
       width="40"
       height="40"
     />
-<h3><p align="left">🤓Currently studying:</p></h3>
-<p>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
       alt="Vuejs"
+      width="40"
+      height="40"
+    />
+<h3><p align="left">🤓Currently studying:</p></h3>
+<p>
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
+      alt="NextJs"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+      alt="Typescript"
       width="40"
       height="40"
     />
