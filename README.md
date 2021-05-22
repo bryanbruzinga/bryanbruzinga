@@ -4,6 +4,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
 
+<p>My portfolio is available, just a couple of bugs to fix on mobile, check it out <a href="https://portfolio-bryanbruzinga.vercel.app/">here</a>.</p>
+
 
 <p align="left"> I'm changing career to web development, more specifically Front-End Development, but i'm aiming to become a Full-Stack dev later on.  
 Graduating in Software Engineering😄.</p>
