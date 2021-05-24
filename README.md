@@ -60,11 +60,17 @@ Graduating in Software Engineering😄.</p>
       width="40"
       height="40"
     />
-<h3><p align="left">🤓Currently studying:</p></h3>
-<p>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
       alt="NextJs"
+      width="40"
+      height="40"
+    />
+<h3><p align="left">🤓Currently studying:</p></h3>
+<p>
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+      alt="Nodejs"
       width="40"
       height="40"
     />
