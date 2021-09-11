@@ -66,14 +66,6 @@ Graduating in Software Engineering😄.</p>
       width="40"
       height="40"
     />
-<h3><p align="left">🤓Currently studying:</p></h3>
-<p>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-      alt="Nodejs"
-      width="40"
-      height="40"
-    />
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
       alt="Typescript"
@@ -81,12 +73,17 @@ Graduating in Software Engineering😄.</p>
       height="40"
     />
     <img
+      src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png"
+      alt="React Native"
+      width="40"
+      height="40"
+    />
+     <img
       src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"
       alt="Sass"
       width="40"
       height="40"
-    />    
-    </p>
+    /> 
 
 <p>Y'all can check me out in: </p><a href="https://www.linkedin.com/in/bryan-da-silva-bruzinga-b6830960/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
