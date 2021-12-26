@@ -4,10 +4,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
 
-<p>My portfolio is available <a href="https://portfolio-bryanbruzinga.vercel.app/">here</a>.</p>
+<p>Check my portfolio <a href="https://portfolio-bryanbruzinga.vercel.app/">here</a>.</p>
 
 
-<p align="left"> I'm changing career to web development, more specifically Front-End Development, but i'm aiming to become a Full-Stack dev later on.  
+<p align="left"> Front End Developer aiming to become a Front End specialist.
 Graduating in Software Engineering😄.</p>
 
 <h3><p align="left">🧑‍💻Techs i use in my projects:</p></h3>
