@@ -7,8 +7,8 @@
 <p>Check my portfolio <a href="https://portfolio-bryanbruzinga.vercel.app/">here</a>.</p>
 
 
-<p align="left"> Front End Developer aiming to become a Front End specialist.
-Graduating in Software Engineering😄.</p>
+<p align="left"> Front End Developer aiming to become a Front End specialist.</p>
+<p>Graduating in Software Engineering😄.</p>
 
 <h3><p align="left">🧑‍💻Techs i use in my projects:</p></h3>
 <p align="left">
