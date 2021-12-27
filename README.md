@@ -85,6 +85,6 @@
       height="40"
     /> 
 
-<p>Y'all can check me out in: </p><a href="https://www.linkedin.com/in/bryan-da-silva-bruzinga-b6830960/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p>Y'all can check me out in: </p><a href="https://www.linkedin.com/in/bryanbruzinga"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <p><i align="center"> It's not about reaching the goal, it's about enjoying the path.</i></p>
