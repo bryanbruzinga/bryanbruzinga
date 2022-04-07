@@ -4,11 +4,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
 
-<p>Check my portfolio <a href="https://portfolio-bryanbruzinga.vercel.app/">here</a>.</p>
-
-
-<p align="left"> Front End Developer aiming to become a Front End specialist.</p>
-<p>Graduating in Software Engineering😄.</p>
+<p align="left">I'm a front-end developer experienced in working in statup environment building scalable apps from scratch.</p>
 
 <h3><p align="left">🧑‍💻Techs i use in my projects:</p></h3>
 <p align="left">
