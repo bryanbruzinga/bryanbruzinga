@@ -6,81 +6,87 @@
 
 <p align="left">I'm a front-end developer experienced in working in statup environment building scalable apps from scratch.</p>
 
-<h3><p align="left">🧑‍💻Techs i use in my projects:</p></h3>
+<h3><p align="left">🧑‍💻Techs i have experience with:</p></h3>
 <p align="left">
     <img
-      src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"
       alt="Javascript"
-      width="40"
-      height="40"
-    />
+    />    
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       alt="CSS"
-      width="40"
-      height="40"
-    />
+    />    
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
       alt="HTML"
-      width="40"
-      height="40"
-    />
+    />    
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="Bootstrap"
-    width="40"
-    height="40"
   />
   <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="Git"
-      width="40"
-      height="40"
     />
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
+      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
       alt="VsCode"
-      width="40"
-      height="40"
     />
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
       alt="React"
-      width="40"
-      height="40"
     />
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+      src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
       alt="Vuejs"
-      width="40"
-      height="40"
     />
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
+      src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
       alt="NextJs"
-      width="40"
-      height="40"
     />
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
       alt="Typescript"
-      width="40"
-      height="40"
-    />
+    />    
     <img
-      src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png"
+      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
       alt="React Native"
-      width="40"
-      height="40"
     />
      <img
-      src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"
+      src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
       alt="Sass"
-      width="40"
-      height="40"
-    /> 
+    />
+     <img
+      src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"
+      alt="Expo"
+    />
+    <img
+      src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+      alt="Jest"
+    />
+    <img
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="Nodejs"
+    />
+    <img
+      src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+      alt="Docker"
+    />
+    <img
+      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="TailwindCss"
+    />
+    <img
+      src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+      alt="GCP"
+    />
+    <img
+      src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
+      alt="Yarn"
+    />
 
-<p>Y'all can check me out in: </p><a href="https://www.linkedin.com/in/bryanbruzinga"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p>My contacts: </p>
+<a href="https://www.linkedin.com/in/bryanbruzinga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:bryanbruzinga1990@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <p><i align="center"> It's not about reaching the goal, it's about enjoying the path.</i></p>
