@@ -1,7 +1,5 @@
 <h2 align="left">Howdy! Welcome, i'm Bryan.🖖</h2>
 
-<img align="right" src="./.github/Coding-Html-icon.png" alt="Coding" width="350" height="350"/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
 
 <p align="left">I'm a front-end developer experienced in working in statup environment building scalable apps from scratch.</p>
