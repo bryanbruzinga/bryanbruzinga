@@ -1,6 +1,6 @@
 <h2 align="left">Howdy! Welcome, i'm Bryan.🖖</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbruzinga&theme=dark&layout=compact&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanbruzinga&show_icons=true&theme=radical"/>
 
 <p align="left">I'm a front-end developer experienced in working in statup environment building scalable apps from scratch.</p>
 
