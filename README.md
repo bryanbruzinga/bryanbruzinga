@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanbruzinga&show_icons=true&theme=radical"/>
 
-<p align="left">I'm a front-end developer experienced in working in statup environment building scalable apps from scratch.</p>
+<p align="left">I'm a front-end developer experienced in providing the best user experience, performance oriented and good practices devotee.</p>
 
 <h3><p align="left">🧑‍💻Techs i have experience with:</p></h3>
 <p align="left">
