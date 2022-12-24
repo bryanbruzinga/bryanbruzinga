@@ -7,6 +7,14 @@
 <h3><p align="left">🧑‍💻Techs i have experience with:</p></h3>
 <p align="left">
     <img
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      alt="React"
+    />
+    <img
+      src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"
+      alt="React Query"
+    />
+    <img
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"
       alt="Javascript"
     />    
@@ -29,10 +37,6 @@
     <img
       src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
       alt="VsCode"
-    />
-    <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="React"
     />
     <img
       src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
